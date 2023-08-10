@@ -13,11 +13,8 @@
 
 # **목차**
 1. [프로젝트 요약](#프로젝트-요약)  
-  1-1. [Semi](#Semi)  
+1-1. [Semi](#Semi)  
   1-2. [Final](#Final)
 2. [프로젝트 상세](#프로젝트-상세)<br>
    2-1. [Web] [SkillMarket](#SkillMakret)
    2-2. [Web] [HoneyPot](#HoneyPot)
-4. [프로젝트 상세](#프로젝트-상세)  
-  3-1. [iOS] [옛다](#ios-옛다)  
-  3-2. [iOS] [아무계](#ios-아무계)  
