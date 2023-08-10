@@ -13,7 +13,7 @@
 
 # **목차**
 1. [프로젝트 요약](#프로젝트-요약)
-  1-1. [Semi](#Semi)  
+1-1. [Semi](#Semi)  
   1-2. [Final](#Final)
 3. [프로젝트 상세](#프로젝트-상세)<br>
    2-1. [Web] [SkillMarket](#SkillMakret)
