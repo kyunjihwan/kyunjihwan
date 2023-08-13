@@ -10,4 +10,4 @@
 **언어 및 도구**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://github.com/kyunjihwan/kyunjihwan/assets/101509467/7e226a00-6414-44c2-b2d2-6e3abc47474d</code>
+<code><img height="20" src="https://github.com/kyunjihwan/kyunjihwan/assets/101509467/7e226a00-6414-44c2-b2d2-6e3abc47474d"></code>
