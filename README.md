@@ -6,6 +6,7 @@
 
 * ✉️ **Email** : j10345678@gmail.com
 * 🚀 **Github** : https://github.com/kyunjihwan
+* 📒 **Blog** : https://97dog.tistory.com
 
 ### 언어 및 도구
 <div>
